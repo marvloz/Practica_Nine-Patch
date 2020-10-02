@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Practica Nine-Patch</string>
+    <string name="text_bienvenida" translatable="false">Bienvenido</string>
 </resources>
